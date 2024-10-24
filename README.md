@@ -31,12 +31,16 @@ Types
 ![image](https://github.com/user-attachments/assets/5c8fa243-bd64-47cf-9976-6f1ee570c3a1)
 
 - ‘Cold-start problem’ or ‘A penguin problem’:  [url](https://youtu.be/jWUEZB_jbxI)
-- Solving penguin problem  A) USERS : [solution](https://youtu.be/5JNRT5exBJU)
+    - The penguin problem or the chicken-egg problem arises when no user is willing to join a platform unless others do, thereby postponing platform adoption.
+
+The penguin problem can be solved across two dimensions: users & resources. 
+Network mobilization strategies that a platform can adopt across two dimensions: users and resources.
+1. Solving penguin problem  A) USERS : [solution](https://youtu.be/5JNRT5exBJU)
 - The quality of users on the demand side will get high-quality users on the supply side when there are cross-side network effects. When there are same-side network effects, quality of users on the same side matter. There are three strategies to get high-quality users in large numbers:
     - Strategy number one platforms can port users from another platform.
     - Strategy number two is to be able to attract new users, at least on one side.
     - Strategy number three is to target market users, find those superstars, those superstars who will bring you users on the other side
-- Solving penguin problem  B) RESOURCES : [solution](https://youtu.be/B5nn_Kb3FPg)
+2. Solving penguin problem  B) RESOURCES : [solution](https://youtu.be/B5nn_Kb3FPg)
     - cz
 - Nine Network Mobilization Strategies: [url1](https://youtu.be/MdTMRnRJ0z0) [Url2](https://youtu.be/aEM3sqv2K5U)
     1. customer experience
@@ -48,5 +52,14 @@ Types
     7. solving core problems
     8. building communities
     9. solve that core problem for a small niche and then make sure everyone else does it.
+
+Network mobilization strategies need to take into account how to port new users, attract new users, target marquee users and; leverage existing resources, develop new resources, leverage resources from the ecosystem.
+
 <img width="1213" alt="Screenshot 2024-10-24 at 8 06 39 PM" src="https://github.com/user-attachments/assets/fff2cd36-bc93-4509-986a-0a24b3fe7795">
+
+ In some cases, the most straightforward strategy is to simply provide subsidies until the network effects kick in and further strategies can be adopted.
+- When to Subsides ? [url](https://youtu.be/CUNLSCq4LE4)
+
+## Week 3
+
 
