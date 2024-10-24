@@ -27,7 +27,7 @@ Types
 
 ## Week 2 : Network Effects
 - What is network effects : [url](https://youtu.be/hTgCAn-9CMc)
-
+    - The strength and direction of network effects are the basis on which platform firms make decisions around pricing, growth, and sustainability of the platform.
 ![image](https://github.com/user-attachments/assets/5c8fa243-bd64-47cf-9976-6f1ee570c3a1)
 
 - ‘Cold-start problem’ or ‘A penguin problem’:  [url](https://youtu.be/jWUEZB_jbxI)
@@ -37,6 +37,16 @@ Types
     - Strategy number two is to be able to attract new users, at least on one side.
     - Strategy number three is to target market users, find those superstars, those superstars who will bring you users on the other side
 - Solving penguin problem  B) RESOURCES : [solution](https://youtu.be/B5nn_Kb3FPg)
-- 
+    - cz
+- Nine Network Mobilization Strategies: [url](https://youtu.be/MdTMRnRJ0z0)
+    1. customer experience
+    2. crowd puller
+    3. leverage the brand
+    4. mobilize the network using the ecosystem
+    5. leveraging partnerships
+    6. building open architecture
+    7. solving core problems
+    8. building communities
+    9. solve that core problem for a small niche and then make sure everyone else does it.
 
 
