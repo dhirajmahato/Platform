@@ -71,9 +71,10 @@ Network mobilization strategies need to take into account how to port new users,
     4. subsidize the side that is more price-sensitive than the side that is less price-sensitive.
     5. quality sensitivity is also an indicator of how easy it is to switch and how low loyalty is to the platform.
     6. assetspecific investments should be subsidized,
-- Negative Pricing : [url](https://youtu.be/wI2-EfVl79c)
-- Permanent Subsidies : [url](https://youtu.be/s45Eoy0I-Ww)
-- Monetise both side : [url](https://youtu.be/q-wHaCWC8Wc)
+- Negative Pricing : [url](https://youtu.be/wI2-EfVl79c) eg: android licence + ad revenue share
+- Permanent Subsidies : [url](https://youtu.be/s45Eoy0I-Ww) eg: Maps
+- Monetise both side : [url](https://youtu.be/q-wHaCWC8Wc) eg: Matrimonial platform
+- [Interview must watch](https://youtu.be/NExY572Kyhk)
 
 
 
