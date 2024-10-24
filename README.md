@@ -25,7 +25,7 @@ Types
 - Single sided platform: eg: automotive platform is a base on which multiple variants are developed
 - Multi sided platform: multi-sided platforms bring together multiple user groups. eg:  an aggregator, or an e-commerce marketplace
 
-## Week 2 : Network Effects
+## Week 2 : Network Effects: [url](https://youtu.be/t6iDZEnm1mw)
 - What is network effects : [url](https://youtu.be/hTgCAn-9CMc)
     - The strength and direction of network effects are the basis on which platform firms make decisions around pricing, growth, and sustainability of the platform.
 ![image](https://github.com/user-attachments/assets/5c8fa243-bd64-47cf-9976-6f1ee570c3a1)
@@ -38,7 +38,7 @@ Types
     - Strategy number three is to target market users, find those superstars, those superstars who will bring you users on the other side
 - Solving penguin problem  B) RESOURCES : [solution](https://youtu.be/B5nn_Kb3FPg)
     - cz
-- Nine Network Mobilization Strategies: [url](https://youtu.be/MdTMRnRJ0z0)
+- Nine Network Mobilization Strategies: [url1](https://youtu.be/MdTMRnRJ0z0) [Url2](https://youtu.be/aEM3sqv2K5U)
     1. customer experience
     2. crowd puller
     3. leverage the brand
@@ -48,5 +48,5 @@ Types
     7. solving core problems
     8. building communities
     9. solve that core problem for a small niche and then make sure everyone else does it.
-
+<img width="1213" alt="Screenshot 2024-10-24 at 8 06 39 PM" src="https://github.com/user-attachments/assets/fff2cd36-bc93-4509-986a-0a24b3fe7795">
 
