@@ -60,6 +60,20 @@ Network mobilization strategies need to take into account how to port new users,
  In some cases, the most straightforward strategy is to simply provide subsidies until the network effects kick in and further strategies can be adopted.
 - When to Subsides ? [url](https://youtu.be/CUNLSCq4LE4)
 
-## Week 3
+## Week 3 : Pricing : [url](https://youtu.be/QBh0Oor7qJM)
+- Introduction: [ur](https://youtu.be/yYxsCvcQ2sY)
+    - User segmentation
+- Money and subsidy: [url](https://youtu.be/G51oEgbCmww)
+- Criteria to monetise/subsides: [url](https://youtu.be/L5t_ecUxYHg)
+    1. First, we should be able to kick in across the network effects.
+    2. the right pricing model should encourage positive same-side network effects, not just cross-side network effects.
+    3. as much as we want to encourage positive same-side network effects, we should also prevent negative same-side network effects. In P2B markets, for instance, supplier-finding platforms.
+    4. subsidize the side that is more price-sensitive than the side that is less price-sensitive.
+    5. quality sensitivity is also an indicator of how easy it is to switch and how low loyalty is to the platform.
+    6. assetspecific investments should be subsidized,
+- Negative Pricing : [url](https://youtu.be/wI2-EfVl79c)
+- Permanent Subsidies : [url](https://youtu.be/s45Eoy0I-Ww)
+- Monetise both side : [url](https://youtu.be/q-wHaCWC8Wc)
+
 
 
