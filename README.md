@@ -25,5 +25,7 @@ Types
 - Single sided platform: eg: automotive platform is a base on which multiple variants are developed
 - Multi sided platform: multi-sided platforms bring together multiple user groups. eg:  an aggregator, or an e-commerce marketplace
 
-## Week 2
+## Week 2 : Network Effects
+
+
 
