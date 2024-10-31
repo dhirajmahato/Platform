@@ -87,3 +87,9 @@ Network mobilization strategies need to take into account how to port new users,
         6. What are the trade-offs of sharing control of the platform dynamics with other ecosystem partners?
     - these decisions around platform architecture and their implications for platform growth, profitability, and ecosystem value addition.
 - Interview: [url](https://youtu.be/mzgoRVPscwk)
+    - 4 primary utilities:
+      1. Discovery eg: google
+      2. Matching eg: dating platform
+      3. Transaction eg: uber
+      4. Evalution eg: hyper-local (ratings. review, feedbacks) same side network effect + cross side network effect (more user+ more business partners)
+- Airbnb provides all 4 utilities
