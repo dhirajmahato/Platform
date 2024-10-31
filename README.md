@@ -91,5 +91,5 @@ Network mobilization strategies need to take into account how to port new users,
       1. Discovery eg: google
       2. Matching eg: dating platform
       3. Transaction eg: uber
-      4. Evalution eg: hyper-local (ratings. review, feedbacks) same side network effect + cross side network effect (more user+ more business partners)
+      4. Evalution eg: hyper-local (ratings, review, Recco, feedbacks{for the service}) same side network effect + cross side network effect (more user+ more business partners)
 - Airbnb provides all 4 utilities
