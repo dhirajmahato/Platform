@@ -78,6 +78,12 @@ Network mobilization strategies need to take into account how to port new users,
 
 ## Week 4 : Platform Architecture
 - Overview: [url] (https://youtu.be/ziWKkzomVmI)
-    - <img width="1009" alt="Screenshot 2024-10-31 at 10 44 05 AM" src="https://github.com/user-attachments/assets/42c27621-e06c-4b72-8e9e-fa458bf54a3a">
-- these decisions around platform architecture and their implications for platform growth, profitability, and ecosystem value addition.
+    - As one sets up a platform there are 6 key decisions that define how platforms are designed and what value they add to the users and other ecosystem partners?
+        1. What are the specific utilities provided by the platform to the users?
+        2. How do they combine these utilities and create, deliver, and capture value?
+        3. How do platforms defined their core and how do they leverage the same?
+        4. How do they compete with other platform competitors?
+        5. What are the implications of designing an open platform? Lastly,
+        6. What are the trade-offs of sharing control of the platform dynamics with other ecosystem partners?
+    - these decisions around platform architecture and their implications for platform growth, profitability, and ecosystem value addition.
 - Interview: [url](https://youtu.be/mzgoRVPscwk)
