@@ -77,4 +77,7 @@ Network mobilization strategies need to take into account how to port new users,
 - [Interview must watch](https://youtu.be/NExY572Kyhk)
 
 ## Week 4 : Platform Architecture
+- Overview: [url] (https://youtu.be/ziWKkzomVmI)
+    - <img width="1009" alt="Screenshot 2024-10-31 at 10 44 05 AM" src="https://github.com/user-attachments/assets/42c27621-e06c-4b72-8e9e-fa458bf54a3a">
+- these decisions around platform architecture and their implications for platform growth, profitability, and ecosystem value addition.
 - Interview: [url](https://youtu.be/mzgoRVPscwk)
