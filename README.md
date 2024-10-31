@@ -76,6 +76,6 @@ Network mobilization strategies need to take into account how to port new users,
 - Monetise both side : [url](https://youtu.be/q-wHaCWC8Wc) eg: Matrimonial platform
 - [Interview must watch](https://youtu.be/NExY572Kyhk)
 
-## Week 4 
+## Week 4 : Platform Architecture
 
 
