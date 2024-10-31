@@ -61,7 +61,7 @@ Network mobilization strategies need to take into account how to port new users,
 - When to Subsides ? [url](https://youtu.be/CUNLSCq4LE4)
 
 ## Week 3 : Pricing : [url](https://youtu.be/QBh0Oor7qJM)
-- Introduction: [ur](https://youtu.be/yYxsCvcQ2sY)
+- Introduction: [url](https://youtu.be/yYxsCvcQ2sY)
     - User segmentation
 - Money and subsidy: [url](https://youtu.be/G51oEgbCmww)
 - Criteria to monetise/subsides: [url](https://youtu.be/L5t_ecUxYHg)
@@ -77,5 +77,4 @@ Network mobilization strategies need to take into account how to port new users,
 - [Interview must watch](https://youtu.be/NExY572Kyhk)
 
 ## Week 4 : Platform Architecture
-
-
+- Interview: [url](https://youtu.be/mzgoRVPscwk)
