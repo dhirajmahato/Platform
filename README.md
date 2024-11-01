@@ -93,3 +93,7 @@ Network mobilization strategies need to take into account how to port new users,
       3. Transaction eg: uber
       4. Evalution eg: hyper-local (ratings, review, Recco, feedbacks{for the service}) same side network effect + cross side network effect (more user+ more business partners)
 - Airbnb provides all 4 utilities
+- Platform architecture
+    1. value creation
+    2. value delivery
+    3. value capture
